@@ -1,0 +1,32 @@
+ 
+h1{
+    color:rgb(3, 34, 8);
+    padding: 5px 5px 3px 3px;
+    background-color: rgb(184, 255, 173);
+    border:1px solid black;
+    margin:2px 2px 2px 2px;
+}
+
+h2{
+    color:rgb(32, 162, 23);
+}
+a:hover{
+    color: antiquewhite; /*Hyperlink color*/
+}
+#paneer:hover{
+         color:rgb(26, 73, 183);
+}
+table{
+    border: solid 3px;
+}
+#dish,#price{
+    border: solid;
+}
+div{
+    border: 1px solid green;
+}
+#chick,#panee{
+    padding:20px 50px ;
+    border: 1px solid;
+}
+ 
